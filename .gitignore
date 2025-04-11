@@ -2,6 +2,10 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+*.db
+
+### Checkstyle ###
+configuration_1_3.dtd
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
